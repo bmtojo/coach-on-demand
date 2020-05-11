@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/coach-on-demand/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github.io/coach-on-demand/static/js/main.3285a858.chunk.js",
+    "main.js.map": "/github.io/coach-on-demand/static/js/main.3285a858.chunk.js.map",
+    "runtime-main.js": "/github.io/coach-on-demand/static/js/runtime-main.b775dcb2.js",
+    "runtime-main.js.map": "/github.io/coach-on-demand/static/js/runtime-main.b775dcb2.js.map",
+    "static/js/2.c71f1797.chunk.js": "/github.io/coach-on-demand/static/js/2.c71f1797.chunk.js",
+    "static/js/2.c71f1797.chunk.js.map": "/github.io/coach-on-demand/static/js/2.c71f1797.chunk.js.map",
+    "index.html": "/github.io/coach-on-demand/index.html",
+    "precache-manifest.f06e534f58dfb08df3463add5722b8ca.js": "/github.io/coach-on-demand/precache-manifest.f06e534f58dfb08df3463add5722b8ca.js",
+    "service-worker.js": "/github.io/coach-on-demand/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/github.io/coach-on-demand/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c71f1797.chunk.js.LICENSE.txt": "/github.io/coach-on-demand/static/js/2.c71f1797.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/coach-on-demand/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b775dcb2.js",
+    "static/js/2.c71f1797.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3285a858.chunk.js"
+  ]
+}
